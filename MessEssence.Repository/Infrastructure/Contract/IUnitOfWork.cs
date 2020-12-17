@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MessEssence.Repository.Infrastructure.Contract
+namespace MessEssence.Repository.Infrastructure
 {
     public interface IUnitOfWork : IDisposable
     {

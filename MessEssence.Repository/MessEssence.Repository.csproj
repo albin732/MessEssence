@@ -56,9 +56,11 @@
     <Compile Include="Department.cs">
       <DependentUpon>MessEssenceEntities.tt</DependentUpon>
     </Compile>
+    <Compile Include="DepartmentRepository.cs" />
     <Compile Include="Employee.cs">
       <DependentUpon>MessEssenceEntities.tt</DependentUpon>
     </Compile>
+    <Compile Include="EmployeeRepository.cs" />
     <Compile Include="Infrastructure\BaseRepository.cs" />
     <Compile Include="Infrastructure\Contract\IBaseRepository.cs" />
     <Compile Include="Infrastructure\Contract\IUnitOfWork.cs" />
