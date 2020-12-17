@@ -59,6 +59,10 @@
     <Compile Include="Employee.cs">
       <DependentUpon>MessEssenceEntities.tt</DependentUpon>
     </Compile>
+    <Compile Include="Infrastructure\BaseRepository.cs" />
+    <Compile Include="Infrastructure\Contract\IBaseRepository.cs" />
+    <Compile Include="Infrastructure\Contract\IUnitOfWork.cs" />
+    <Compile Include="Infrastructure\UnitOfWork.cs" />
     <Compile Include="MessEssenceEntities.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

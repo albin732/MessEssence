@@ -1,0 +1,6 @@
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Domain\bin\Debug\MessEssence.Domain.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Domain\bin\Debug\MessEssence.Domain.pdb
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Domain\obj\Debug\MessEssence.Domain.csprojAssemblyReference.cache
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Domain\obj\Debug\MessEssence.Domain.csproj.CoreCompileInputs.cache
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Domain\obj\Debug\MessEssence.Domain.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Domain\obj\Debug\MessEssence.Domain.pdb
