@@ -1,20 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Operations Version="1.0">
-  <Operation Name="Rename Refactor" Key="0b08e3c3-322e-42bf-97a3-218e1f0808e7" ChangeDateTime="12/17/2020 07:52:58" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="89f9effe-05d3-4514-b750-1c9c05114928" ChangeDateTime="12/17/2020 12:39:13" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
     <Property Name="ElementName" Value="[dbo].[Department].[Id]" />
-    <Property Name="ElementType" Value="SqlSimpleColumn" />
-    <Property Name="ParentElementName" Value="[dbo].[Department]" />
-    <Property Name="ParentElementType" Value="SqlTable" />
-    <Property Name="NewName" Value="Department" />
-  </Operation>
-  <Operation Name="Rename Refactor" Key="57487650-4f3f-47e9-a35c-d5e237f685ac" ChangeDateTime="12/17/2020 07:53:08" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
-    <Property Name="ElementName" Value="[dbo].[Department].[Department]" />
     <Property Name="ElementType" Value="SqlSimpleColumn" />
     <Property Name="ParentElementName" Value="[dbo].[Department]" />
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="DepartmentId" />
   </Operation>
-  <Operation Name="Rename Refactor" Key="2f2532ad-3196-4c28-82e5-57d6c75cbdac" ChangeDateTime="12/17/2020 07:55:28" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="b02708a0-4d45-44e3-8f20-b57d70681c95" ChangeDateTime="12/17/2020 12:40:09" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
     <Property Name="ElementName" Value="[dbo].[Employee].[Id]" />
     <Property Name="ElementType" Value="SqlSimpleColumn" />
     <Property Name="ParentElementName" Value="[dbo].[Employee]" />

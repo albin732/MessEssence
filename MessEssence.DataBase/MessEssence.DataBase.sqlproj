@@ -6,7 +6,7 @@
     <Name>MessEssence.DataBase</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{95d4e36c-a18f-4e51-97bc-0fbdeab63434}</ProjectGuid>
+    <ProjectGuid>{68264d9a-cc1a-479b-bc43-9f6fe302bf03}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
@@ -57,10 +57,11 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="dbo" />
+    <Folder Include="dbo\Tables" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="dbo\Department.sql" />
-    <Build Include="dbo\Employee.sql" />
+    <Build Include="dbo\Tables\Department.sql" />
+    <Build Include="dbo\Tables\Employee.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="MessEssence.DataBase.refactorlog" />
