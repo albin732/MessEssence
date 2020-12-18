@@ -50,20 +50,63 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="C__RefactorLog.cs">
+      <DependentUpon>MessEssenceSQL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Department.cs">
+      <DependentUpon>MessEssenceSQL.tt</DependentUpon>
+    </Compile>
     <Compile Include="DepartmentRepository.cs" />
+    <Compile Include="Employee.cs">
+      <DependentUpon>MessEssenceSQL.tt</DependentUpon>
+    </Compile>
     <Compile Include="EmployeeRepository.cs" />
     <Compile Include="Infrastructure\BaseRepository.cs" />
     <Compile Include="Infrastructure\Contract\IBaseRepository.cs" />
     <Compile Include="Infrastructure\Contract\IUnitOfWork.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
+    <Compile Include="MessEssenceSQL.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MessEssenceSQL.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MessEssenceSQL.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MessEssenceSQL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MessEssenceSQL.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MessEssenceSQL.edmx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config" />
+    <EntityDeploy Include="MessEssenceSQL.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>MessEssenceSQL.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="MessEssenceSQL.edmx.diagram">
+      <DependentUpon>MessEssenceSQL.edmx</DependentUpon>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MessEssenceSQL.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>MessEssenceSQL.edmx</DependentUpon>
+      <LastGenOutput>MessEssenceSQL.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="MessEssenceSQL.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>MessEssenceSQL.edmx</DependentUpon>
+      <LastGenOutput>MessEssenceSQL.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
