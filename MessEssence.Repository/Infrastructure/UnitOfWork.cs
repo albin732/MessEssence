@@ -9,11 +9,11 @@ namespace MessEssence.Repository.Infrastructure
 {
     public class UnitOfWork : IUnitOfWork
     {
-        private readonly MessEssenceSQLDbEntities _dbContext;
+        private readonly MessEssenceSQLDBEntities _dbContext;
 
         public UnitOfWork()
         {
-            _dbContext = new MessEssenceSQLDbEntities();
+            _dbContext = new MessEssenceSQLDBEntities();
         }
 
         public DbContext Db
