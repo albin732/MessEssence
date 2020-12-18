@@ -180,6 +180,20 @@
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MessEssence.Business\MessEssence.Business.csproj">
+      <Project>{dc778ed7-ff63-4818-9e16-8f56f89639db}</Project>
+      <Name>MessEssence.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MessEssence.Domain\MessEssence.Domain.csproj">
+      <Project>{0f31c643-94b3-4c32-9d47-2deec602cfac}</Project>
+      <Name>MessEssence.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MessEssence.Repository\MessEssence.Repository.csproj">
+      <Project>{456a1ede-13fa-4284-8503-fdf6b176db52}</Project>
+      <Name>MessEssence.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
