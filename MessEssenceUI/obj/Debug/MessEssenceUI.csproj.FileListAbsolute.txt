@@ -55,6 +55,7 @@ E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Mes
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Microsoft.Web.Infrastructure.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Newtonsoft.Json.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Runtime.CompilerServices.Unsafe.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.Helpers.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.Mvc.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.Optimization.dll
@@ -62,6 +63,9 @@ E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Sys
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.WebPages.Deployment.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.WebPages.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.WebPages.Razor.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Unity.Abstractions.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Unity.Container.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Unity.Mvc5.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\WebGrease.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\EntityFramework.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\MessEssence.Business.pdb
@@ -69,6 +73,7 @@ E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Mes
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\MessEssence.Repository.pdb
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\MessEssence.Repository.dll.config
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\AutoMapper.xml
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Runtime.CompilerServices.Unsafe.xml
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.Helpers.xml
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.Mvc.xml
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.Optimization.xml
@@ -77,6 +82,8 @@ E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Sys
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.WebPages.Deployment.xml
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\System.Web.WebPages.Razor.xml
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Newtonsoft.Json.xml
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Unity.Abstractions.pdb
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Unity.Container.pdb
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Antlr3.Runtime.pdb
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\EntityFramework.xml

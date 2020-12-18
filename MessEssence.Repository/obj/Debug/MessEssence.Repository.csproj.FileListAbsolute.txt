@@ -5,8 +5,8 @@ E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Repositor
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Repository\bin\Debug\EntityFramework.SqlServer.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Repository\bin\Debug\EntityFramework.xml
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Repository\obj\Debug\MessEssence.Repository.csprojAssemblyReference.cache
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Repository\obj\Debug\MessEssence.Repository.csproj.CoreCompileInputs.cache
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Repository\obj\Debug\MessEssence.Repository.csproj.CopyComplete
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Repository\obj\Debug\MessEssence.Repository.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Repository\obj\Debug\MessEssence.Repository.pdb
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Repository\obj\Debug\MessEssence.Repository.csprojAssemblyReference.cache
