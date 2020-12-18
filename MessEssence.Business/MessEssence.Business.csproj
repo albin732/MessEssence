@@ -41,7 +41,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DepartmentBusiness.cs" />
+    <Compile Include="EmployeeBusiness.cs" />
+    <Compile Include="Interface\IDepartmentBusiness.cs" />
+    <Compile Include="Interface\IEmployeeBusiness.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MessEssence.Domain\MessEssence.Domain.csproj">
+      <Project>{0F31C643-94B3-4C32-9D47-2DEEC602CFAC}</Project>
+      <Name>MessEssence.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MessEssence.Repository\MessEssence.Repository.csproj">
+      <Project>{456A1EDE-13FA-4284-8503-FDF6B176DB52}</Project>
+      <Name>MessEssence.Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

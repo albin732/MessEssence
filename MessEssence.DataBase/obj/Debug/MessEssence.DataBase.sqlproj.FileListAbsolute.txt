@@ -1,9 +1,0 @@
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.DataBase\bin\Debug\MessEssence.DataBase.dacpac
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.DataBase\bin\Debug\MessEssence.DataBase.dll
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.DataBase\bin\Debug\MessEssence.DataBase.pdb
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.DataBase\obj\Debug\Model.xml
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.DataBase\obj\Debug\refactor.xml
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.DataBase\obj\Debug\postdeploy.sql
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.DataBase\obj\Debug\predeploy.sql
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.DataBase\obj\Debug\MessEssence.DataBase.dll
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.DataBase\obj\Debug\MessEssence.DataBase.pdb

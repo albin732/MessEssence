@@ -50,62 +50,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C__RefactorLog.cs">
-      <DependentUpon>MessEssenceEntities.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Department.cs">
-      <DependentUpon>MessEssenceEntities.tt</DependentUpon>
-    </Compile>
     <Compile Include="DepartmentRepository.cs" />
-    <Compile Include="Employee.cs">
-      <DependentUpon>MessEssenceEntities.tt</DependentUpon>
-    </Compile>
     <Compile Include="EmployeeRepository.cs" />
     <Compile Include="Infrastructure\BaseRepository.cs" />
     <Compile Include="Infrastructure\Contract\IBaseRepository.cs" />
     <Compile Include="Infrastructure\Contract\IUnitOfWork.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
-    <Compile Include="MessEssenceEntities.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>MessEssenceEntities.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="MessEssenceEntities.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>MessEssenceEntities.tt</DependentUpon>
-    </Compile>
-    <Compile Include="MessEssenceEntities.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>MessEssenceEntities.edmx</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EntityDeploy Include="MessEssenceEntities.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>MessEssenceEntities.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="App.Config" />
-    <None Include="MessEssenceEntities.edmx.diagram">
-      <DependentUpon>MessEssenceEntities.edmx</DependentUpon>
-    </None>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="MessEssenceEntities.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>MessEssenceEntities.edmx</DependentUpon>
-      <LastGenOutput>MessEssenceEntities.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="MessEssenceEntities.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>MessEssenceEntities.edmx</DependentUpon>
-      <LastGenOutput>MessEssenceEntities.cs</LastGenOutput>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />

@@ -1,6 +1,2 @@
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\MessEssence.Business.dll
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\MessEssence.Business.pdb
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\obj\Debug\MessEssence.Business.csprojAssemblyReference.cache
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\obj\Debug\MessEssence.Business.csproj.CoreCompileInputs.cache
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\obj\Debug\MessEssence.Business.dll
-E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\obj\Debug\MessEssence.Business.pdb
