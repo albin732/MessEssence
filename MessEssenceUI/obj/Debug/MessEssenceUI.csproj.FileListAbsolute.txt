@@ -92,3 +92,5 @@ E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\obj\Deb
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\obj\Debug\MessEssenceUI.csproj.CopyComplete
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\obj\Debug\MessEssenceUI.dll
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\obj\Debug\MessEssenceUI.pdb
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\EntityFramework.SqlServer.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssenceUI\bin\EntityFramework.SqlServer.xml

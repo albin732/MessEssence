@@ -1,5 +1,8 @@
-﻿using MessEssence.Business.Interface;
+﻿using AutoMapper;
+using MessEssence.Business.Interface;
 using MessEssence.Domain;
+using MessEssenceUI.App_Start;
+using MessEssenceUI.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,8 +24,17 @@ namespace MessEssenceUI.Controllers
 
         public ActionResult Index()
         {
-            List<EmployeeDomainModel> employeeDomainModelList = new List<EmployeeDomainModel>();
-            employeeDomainModelList = employeeBusiness.GetAllEmployee();
+            List<EmployeeDomainModel>  employeeDomainModelList = employeeBusiness.GetAllEmployee();
+            List<EmployeeViewModel> employeeViewModelList = new List<EmployeeViewModel>();
+
+
+            // Automaper starts
+            var config = new AutoMapperConfig().Configure();
+            IMapper imapper = config.CreateMapper();
+
+            ViewBag.EmployeeList = imapper.Map(employeeDomainModelList, employeeViewModelList);
+            // Automapper ends
+
             return View();
         }
 

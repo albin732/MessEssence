@@ -12,23 +12,7 @@ namespace MessEssenceUI.Infrastructure
     {
         public AutomapperWebProfile()
         {
-
-            CreateMap<EmployeeDomainModel, EmployeeViewModel>();
-
-            //Reverese mapping
-            CreateMap<EmployeeViewModel, EmployeeDomainModel>();
-
-        }
-
-        public static void Run()
-        {
-            var config = new MapperConfiguration(cfg => {
-                cfg.AddProfile<AutomapperWebProfile>();
-            });
-
-            //var mapper = config.CreateMapper();
-            //// or
-            var AutoMapper = new Mapper(config);
+            CreateMap<EmployeeDomainModel, EmployeeViewModel>().ReverseMap();
         }
     }
 }
