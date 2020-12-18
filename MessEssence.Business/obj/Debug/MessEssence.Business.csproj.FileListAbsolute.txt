@@ -1,2 +1,14 @@
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\MessEssence.Business.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\MessEssence.Business.pdb
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\MessEssence.Domain.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\MessEssence.Repository.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\EntityFramework.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\MessEssence.Domain.pdb
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\MessEssence.Repository.pdb
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\MessEssence.Repository.dll.config
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\bin\Debug\EntityFramework.xml
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\obj\Debug\MessEssence.Business.csprojAssemblyReference.cache
 E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\obj\Debug\MessEssence.Business.csproj.CoreCompileInputs.cache
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\obj\Debug\MessEssence.Business.csproj.CopyComplete
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\obj\Debug\MessEssence.Business.dll
+E:\02Wind_contrib\00WinWorkSpace\C#.net MVC\MessEssenceApp\MessEssence.Business\obj\Debug\MessEssence.Business.pdb
